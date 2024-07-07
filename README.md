@@ -20,7 +20,10 @@ Welcome to the Word Counter project! This application is designed to efficiently
 - **Word Frequency**: See the frequency of each word in the text.
 - **User-friendly Interface**: Easy to use, even for beginners.
 - **Fast Processing**: Quickly analyze large texts without delays.
-- **Capitalization**: Quickly Capitalize the text without any delays.
+- **Upper Case**: Quickly Capitalize the text without any delays.
+- **Small Case**: Quickly Convert into the text without any delays.
+- **Easy Copy**: Quickly Copy the text without any delays.
+- **Count The Time**: Count the Word per minute text.
 
 
 ## Installation
